@@ -13,12 +13,14 @@ La **Version Linux**, elle, ne contient que les fichiers python, Ce dernier éta
 
 Le lancement est très facile :
 
-* Télécharger l'archive depuis Github
-* L'extraire **dans un dossier à part**
-* Version Windows :
-    * Lancer le fichier **launch.cmd**.
-* Version Linux :
-    * Double-cliquer sur le fichier **launch.sh**
-    * Cliquer sur **Ouvrir dans un terminal** ou **Executer dans un Terminal**
+* **Sur Windows :**
+    * Lancer setup.exe
+    * Terminer l'installation
+    * Lancer Tamagopy depuis le menu démarrer ou l'icone sur le bureau (si vous l'avez activé)
+* **Sur Linux**
+    * Extraire L'archive (*.tar.gz*)
+    * Lancer un terminal dans le dossier de Tamagopy:
+        * `chmod +x run.sh`
+        * `./run.sh`
     
 **Dans les deux cas, Tamagopy se lance dans la fenêtre __command line__**
